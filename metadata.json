@@ -1,0 +1,6 @@
+{
+  "name": "Haier IE MP Utilization & Line Balancing System",
+  "description": "Industrial Engineering Manpower Utilization, Cycle Time, Takt Time, and Line Balancing Management System for Haier manufacturing lines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
